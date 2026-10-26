@@ -1,0 +1,108 @@
+2048-Data Analytics
+---------------------------------------------------------
+1. What is Data?
+---------------------------
+Data means raw facts, values, observations, or information from different sources.
+
+--------------------------------------------------------------------------------------------
+
+Example:
+
+Student Name : Amogh Tambe
+Age: 35
+City: Pune
+marks : 10/100
+---------------------------------------------------
+
+GIGO --->
+
+-------------------------------------------------------------------------
+
+or Company may have: [Maharashtra]
+
+product 	sales
+
+laptop		50 
+mobile		120  
+tablet		75
+------------------------------------------------------------------------------------------------------------------------
+
+2. What is Data Analysis?
+------------------------------------------------------------------
+Data Analysis is the process of examine, cleaning, transform, and interpreting data to find useful information, patterns and insight that help in decision-making.
+-----------------------------------------------------------------------------------------------------------------
+
+In Simple Word:
+Data Analysis means converting raw data into useful information.
+---------------------------------------------------------------------------------------------
+
+RAW DATA
+   |
+COLLECT DATA
+   |
+CLEAN DATA
+   |
+ORGANIZE DATA
+   |
+PATTERN 
+   |
+GENERATE INSIGHT
+   |
+MAKE DECISION
+---------------------------------------------------------------------------------------------------------
+
+
+3.EXAMPLE
+
+product 	sales
+
+laptop		50 
+mobile		120  
+tablet		75
+
+------------------------------------------------------------
+LOOKING AT THE RAW DATA DOEN'T IMMEDIATELY TELL US HOW MUCH.
+
+AFTER ANALYSIS FIND SOME USEFUL INFORMATION
+
+PREDECTION - PROFIT - DECISION
+MOBILE  - 170
+LAPTIO  - 40-45-60
+TABLET - 65
+
+
+WRONG PREDECTION - lOSS
+MOBILE - 50  - DEMAND LESS
+LAPTOP - 170
+TABLET - 200
+-----------------------------------------------------------------------
+
+MOBILE ---> HIGHEST SALES
+TABLET ---> MEDIUM SALES
+LAPTOP ---> LOWEST SALES
+-------------------------------------------------------------------------------------
+
+### 4. WHY WE NEED DATA ANALYSIS?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
