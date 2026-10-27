@@ -83,6 +83,136 @@ LAPTOP ---> LOWEST SALES
 -------------------------------------------------------------------------------------
 
 ### 4. WHY WE NEED DATA ANALYSIS?
+Modern Organization generates huge amounts of data.
+
+
+For Example:
+> Customer Data
+> Sales Data
+> Employee Data
+> Financial Data
+> Social Media Data
+> Product Data
+> Transaction Data 
+
+
+Raw data alone is not very useful.
+
+----------------------------------------------------------------------------
+Main Reason:
+
+1. To Understand data:
+---------------------------
+
+We need analysis help us to understand large dataset:
+
+100,000 customer records
+
+Instead of manually looking every records, We can analyze:
+
+Example:
+Total Actual Customer
+Customer Age
+Most Common city
+Average Purchase Amount
+Top Customer
+Most Selling Month
+Down Selling Month
+-------------------------------------------------
+
+2. To find Pattern
+
+Analysis help to identify patterns
+
+Example:
+
+Monday 		--- 20,000
+Tuesday		--- 22,000
+Wednesday	--- 21,000
+Thursday	--- 35,000
+Friday		--- 50,000
+
+Sales increase towards weekend.
+-----------------------------------------------------------------------------
+3. To Find Trends
+----------------------------
+A trends shows how something changes over time.
+
+Example:
+----------------------------
+2023 ----> 10 Lakh
+2024 ----> 15 Lakh
+2025 ----> 22 Lakh
+2026 ----> 30 Lakh
+2027 ----> 
+
+We can identify an increasing sales trend.
+----------------------------------------------------------------------------------------
+4. To find Problems
+------------------------------------------------------------
+
+Data Analysis can identify unusual or problematic data.
+
+Normal Transaction - 500- 50,000
+
+
+Transaction
+
+50,00,000
+
+
+This is the one of the biggest reason for data analysis?
+
+------------------------
+Without Data:
+	"I think customers prefer product A"
+
+With Data:
+	"70% of customers purchased product A"
+
+The second statement is supported by an evidence.
+----------------------------------------------------------------------------------------
+
+5. Data Analysis in Real Life
+-------------------------------------------
+E-Commerce
+
+Companies analyze:
+
+> Most Purchased products
+> Customer spending
+> Sales by city
+> Return rates
+> Customer behavior
+
+--------------------------------------------------------------------------------------------------
+
+Bank Analysis:
+----------------------------------------------
+> Transition
+> Customer spending
+> Loan History
+> Credit behavior -- CIBIL Score - 0 -900 -- Highly  --- 10 - 750 - 800+
+---------------------------------------------------------------------------------
+
+
+Hospital - Helthcare
+----------------------------------------------
+> Patients Records
+> Diseases - Treatment
+> medicine
+------------------------------------------
+
+
+
+
+--------------------------------------------------------------------------------------------------
+
+Data Analysis VS Data Analytics
+-----------------------------------------------------------------------
+
+
+
 
 
 
