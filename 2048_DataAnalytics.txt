@@ -207,9 +207,192 @@ Hospital - Helthcare
 
 
 --------------------------------------------------------------------------------------------------
+Data Analysis vs Data
+----------------------------------
+DAta
+85
+65
+82
+91
+45
+-------
 
+This is raw information
+----------------------------------------------
+
+Data analysis
+---------------------
+Average - 73.6 [Mean]
+Highest Value - 91
+Lowest Value - 45
+total given value - 5
+total sum - 368
+
+----------------------------------------------
 Data Analysis VS Data Analytics
------------------------------------------------------------------------
+-----------------------------------------------
+These terms are related but not exactly same.
+---------------------------------------------------------
+Data Analysis:
+-------------------
+Focuses mainly on
+	Understanding and exploring data to generate insights.
+
+-------------------------------
+Data Analytics:
+------------------------------
+is brooder and can includes:
+
+> Data Collection
+> Data preparation
+> Data analysis
+> Statistical Analysis
+> Predictive Analysis
+> Business Decision-Making
+-----------------------------------------------------------------
+Data Analysis = Analyze the data
+
+Data Analytics = Complete process of using data to generate insight and support decision.
+------------------------------------------------------------------------------------------
+
+8. Types of Data Analysis
+---------------------------------------
+There are mainly four common categories:
+
+1. DESCRIPTIVE ANALYTICS
+
+Core Question: What happened?
+Purpose: Summarizes historical or current data to give a snapshot of performance.
+Common Techniques: Data aggregation, mean/median calculations, and KPI dashboards.
+Example: A monthly revenue report showing total sales or a website traffic summary.
+
+2. DIAGNOSTIC ANALYTICS
+
+Core Question: Why did it happen?
+Purpose: Investigates anomalies, patterns, or root causes behind the results shown in descriptive data.
+Common Techniques: Drill-down analysis, cohort segmentation, and correlation analysis.
+Example: Looking into a sudden drop in sales to find out it was caused by a delayed product delivery or a regional marketing failure.
+
+3. PREDICTIVE ANALYTICS
+
+Core Question: What is likely to happen?
+Purpose: Uses historical patterns and statistical models to forecast future trends or events.
+Common Techniques: Regression analysis, machine learning, and time-series modeling.
+Example: Forecasting next quarter's inventory demand or predicting which customers are at risk of churning.
+
+4. PRESCRIPTIVE ANALYTICS
+
+Core Question: What should we do next?
+Purpose: Recommends specific actions or optimization strategies based on the prior three analytical stages.
+Common Techniques: Optimization models, scenario simulations, and decision trees.
+Example: Automatically adjusting marketing budgets or calculating the exact number of product units to stock for peak weeks.
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+Complete Data Analysis workflow
+-------------------------------------------------------------------------------
+
+	Data
+	  |
+	Data Collect
+	  |
+	Data Cleaning
+	  |
+	Data Transformation
+	  |
+	Exploratory Analysis
+	  |
+	Statistics Analysis
+	  |
+	Data Visualize
+	  |
+	Find Insight
+ 	  |
+	Business Decision
+--------------------------------------------------------------------------------------------
+
+Example
+----------------
+	Customer Data
+		|
+	Cleaning Missing Value
+		|
+	Remove Duplicates
+		|
+	Calculate Average Spending
+		|
+	Find top customer
+		|
+	Identify Customer trends 
+		| 
+	Business decides what to sells/promote
+-------------------------------------------------------------------------------------------
+Topics of Data Analysis
+
+Python
+NumPy
+Pandas
+SQL
+Excel
+PowerBi
+Matplotlib
+Sci-Kit Learn
+---------------------------------------------------------------------
+
+Excel - Basic Analysis
+Pandas  - is a tools
+NumPy - is a tools
+SQL - Data Stores or Analysis
+matplotlib - Visualize
+Seaborn - Statistics Visualization
+PowerBI - Business Dashboard 
+------------------------------------------------------------------------
+Note:
+
+Data is everywhere, but raw data des not directly provide useful information. Data Analysis is the process of converting raw data into meaning information, identify patterns and trends, and generate insights that helps us make better decision.
+
+
+--------------------------------------------------------------------------------------------------------------------------------------
+
+
+NumPy
+Pandas
+Matplotlib
+SQL - Done
+Sci-Kit -
+-----------------------------------------------------------------------------
+Module 1: Introduction to NumPy
+------------------------------------------------
+1. What is NumPy?
+-----------------------
+NumPy is a python library used for:
+* Numerical Calculations
+* Array operations
+* Mathematical operations
+* Statistical Calculations
+* Matrix Operations
+* Scientific Computing
+* Data analysis
+* Machine Leaning
+
+-------------------------------------------------------------------------------------
+Note:
+The main object NumPy is NumPy Array(ndarray)
+-------------------------------------------------------------------------------------------------
+
+Installation NumPy
+------------------------------------------------------------------
+
+
+Open CMD : pip install NumPy
+----------------------------------------------------------------
+
+
+		
+
+	
+
+	
 
 
 
